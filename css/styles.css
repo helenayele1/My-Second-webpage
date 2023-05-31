@@ -1,0 +1,28 @@
+h1 {
+    color: darkblue;
+    text-decoration: underline; 
+    text-align: center;
+}
+h2 {
+    text-align: left
+}
+    ul {
+       color: gray;
+       text-decoration: blink;
+    }
+
+    .box { 
+        border: 1px solid black;
+        padding: 15px
+    }
+    
+    h2 {
+        color: darkblue;
+        text-decoration: underline;
+    }
+
+    ul
+      {color: grey;
+      font-size: 15px;
+
+    }
